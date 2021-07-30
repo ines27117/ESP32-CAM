@@ -16,7 +16,7 @@
  * Componente     PinESP32CAM     Estados lógicos
  * ledStatus------GPIO 33---------On=>LOW, Off=>HIGH
  * ledFlash-------GPIO 4----------On=>HIGH, Off=>LOW
- * ledPin---------GPIO 12---------On=>LOW, Off=>HIGH
+ * ledPin---------GPIO 13---------On=>LOW, Off=>HIGH
  */
 
 // Bibliotecas
